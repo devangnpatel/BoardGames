@@ -1,0 +1,2 @@
+gamesImages/chess/black/bishops/black_bishop_0_2.txt
+0 0

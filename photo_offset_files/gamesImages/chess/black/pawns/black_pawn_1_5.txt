@@ -1,0 +1,2 @@
+gamesImages/chess/black/pawns/black_pawn_1_5.txt
+0 0

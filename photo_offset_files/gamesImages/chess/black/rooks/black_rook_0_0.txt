@@ -1,0 +1,2 @@
+gamesImages/chess/black/rooks/black_rook_0_0.txt
+0 0

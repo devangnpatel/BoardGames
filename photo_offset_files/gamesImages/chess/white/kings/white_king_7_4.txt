@@ -1,0 +1,2 @@
+gamesImages/chess/white/kings/white_king_7_4.txt
+0 0

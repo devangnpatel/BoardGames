@@ -1,0 +1,2 @@
+gamesImages/chess/white/rooks/white_rook_7_7.txt
+0 0

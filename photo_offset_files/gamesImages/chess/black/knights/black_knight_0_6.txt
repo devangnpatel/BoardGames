@@ -1,0 +1,2 @@
+gamesImages/chess/black/knights/black_knight_0_6.txt
+0 0

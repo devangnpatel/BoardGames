@@ -1,0 +1,2 @@
+gamesImages/chess/white/bishops/white_bishop_7_2.txt
+0 0

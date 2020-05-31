@@ -1,0 +1,2 @@
+gamesImages/chess/black/kings/black_king_0_4.txt
+0 0
